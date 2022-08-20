@@ -1,0 +1,59 @@
+[33mcommit c5bf34242953fd51b7684a885a3f16ae384f3987[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Dzovakpor Christian <dzovakpor@gmail.com>
+Date:   Sat Aug 20 18:43:47 2022 +0000
+
+    .gitignore created
+
+[33mcommit 7a2aed755a59e410bff9f46230d708912f6ac329[m[33m ([m[1;31mjav/master[m[33m)[m
+Author: Vakpor <111326980+Vakpor@users.noreply.github.com>
+Date:   Sun Aug 21 03:07:51 2022 +0900
+
+    Create product list
+
+[33mcommit 6d333a2a2c0841ef1134f1d48d803ee217ba2157[m
+Author: Vakpor <111326980+Vakpor@users.noreply.github.com>
+Date:   Sat Aug 20 07:53:58 2022 +0900
+
+    Create monitor.app
+
+[33mcommit edf53349ad1ce6ec347882ccbca889152771621c[m
+Author: Vakpor <111326980+Vakpor@users.noreply.github.com>
+Date:   Sat Aug 20 07:42:13 2022 +0900
+
+    list.java updated with chi
+
+[33mcommit cb51631bb27139cbdac56a0d8d28b3367b103621[m
+Author: Dzovakpor Christian <dzovakpor@gmail.com>
+Date:   Fri Aug 19 22:12:53 2022 +0000
+
+    user's list created
+
+[33mcommit ded31d07574943a0dba78e235fe303b3e0d3ac52[m[33m ([m[1;31msv/master[m[33m)[m
+Author: Dzovakpor Christian <dzovakpor@gmail.com>
+Date:   Wed Aug 17 10:12:39 2022 +0000
+
+    deployment updated
+
+[33mcommit bcc730ada12f895f2d194ab32ce0b6b6728050f2[m
+Author: Dzovakpor Christian <dzovakpor@gmail.com>
+Date:   Wed Aug 17 10:10:46 2022 +0000
+
+    deployment updated
+
+[33mcommit 34d0d2eb5fc92f9b851e47536ed166af39af7870[m
+Author: Dzovakpor Christian <dzovakpor@gmail.com>
+Date:   Wed Aug 17 09:52:30 2022 +0000
+
+    deployent file added
+
+[33mcommit aca753caeeecafe1e854f00fd159a5814a314026[m
+Author: Dzovakpor Christian <dzovakpor@gmail.com>
+Date:   Wed Aug 17 09:51:03 2022 +0000
+
+    tools added
+
+[33mcommit 1dd033f54baacd662cb545ef9ef06c2d6beb86bd[m
+Author: Dzovakpor Christian <dzovakpor@gmail.com>
+Date:   Wed Aug 17 09:13:14 2022 +0000
+
+    my first commit
